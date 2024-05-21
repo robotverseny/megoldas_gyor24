@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Launch files
+title: Launch fájlok
 ---
 
 # Launch files
