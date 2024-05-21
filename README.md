@@ -1,4 +1,4 @@
-# Kezdőlap
+# Használati útmutató
 
 # `megoldas_gyor24` ROS package
 🤖 Autonóm robotverseny helyszíni fordulójának megoldás mintája.
