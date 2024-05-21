@@ -1,4 +1,4 @@
-# Info
+# Műszaki információk
 
 ``` c
 wheeltec@wheeltec:$  lsb_release -a
@@ -15,7 +15,7 @@ Codename:       bionic
 
 ## Wheeltec robot
 
-angle: between -180 to 180 degrees
+Lézerszkenner látószögei: -180 és 180 fok között
 
 ``` c
 rostopic echo /scan -n1
@@ -37,7 +37,7 @@ intensities: [130.0, 174.0, 160.0, ....]
 ---
 ```
 
-## Simulator 
+## Szimulátor
 
 angle: between -45 to 225 degrees
 

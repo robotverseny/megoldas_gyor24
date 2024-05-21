@@ -18,9 +18,9 @@ echo "[INFO] Starting lsn10 LIDAR"
 screen -dmS lsn10 bash -c 'roslaunch lsn10 lsn10.launch'
 sleep 4
 echo "[INFO] Starting mozgas"
-screen -dmS megoldas1 bash -c 'roslaunch megoldas_zala23 megoldas2.launch'
+screen -dmS megoldas1 bash -c 'roslaunch megoldas_gyor24 megoldas2.launch'
 echo "[INFO] Starting vizu"
-screen -dmS vizu bash -c 'rosrun megoldas_zala23 path_and_steering'
+screen -dmS vizu bash -c 'rosrun megoldas_gyor24 path_and_steering'
 sleep 120
 echo "[INFO] STOP"
-rosrun megoldas_zala23 stop_all.sh
+rosrun megoldas_gyor24 stop_all.sh

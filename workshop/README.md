@@ -1,9 +1,3 @@
-# Workshop
-
-- A small overview of the `Bavarian-Hungarian Self-driving vehicles` workshop.
-- **Date**: 2023.11.03. 
-- **Place**: Győr, Hungary.
-
 # `megoldas_zala23` ROS 1 package
 🤖 In the following a very simple wall/gap following approach will be presented and described. The origin of he code is based on the work of Suresh Babu (University of Virginia, [license](https://github.com/linklab-uva/f1tenth_gtc_tutorial/blob/master/LICENSE)). Link to the original code: [github.com/linklab-uva/f1tenth_gtc_tutorial](https://github.com/linklab-uva/f1tenth_gtc_tutorial).
 

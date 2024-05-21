@@ -1,8 +1,8 @@
-title: Megoldás Zala23
+title: Megoldás Győr24
 description: <description of your web page> # EDIT: Fill this in
 
 remote_theme: just-the-docs/just-the-docs # Borrowing the theme from https://github.com/just-the-docs/just-the-docs
-github_repo_url: "https://github.com/robotverseny/megoldas_zala23"
+github_repo_url: "https://github.com/robotverseny/megoldas_gyor24"
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page. (true or false)
@@ -19,7 +19,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # A footer with "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "View this content on GitHub"
-gh_edit_repository: "https://github.com/robotverseny/megoldas_zala23" # EDIT: ADD THE URL TO YOUR GITHUB REPO
+gh_edit_repository: "https://github.com/robotverseny/megoldas_gyor24" # EDIT: ADD THE URL TO YOUR GITHUB REPO
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
