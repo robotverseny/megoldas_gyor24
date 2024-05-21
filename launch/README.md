@@ -3,7 +3,7 @@ layout: default
 title: Launch fájlok
 ---
 
-# Launch files
+# Launch fájlok
 
 ## `lidar_and_motor_bringup.launch`
 
